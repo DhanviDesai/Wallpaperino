@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ac1900</color>
+    <color name="colorPrimaryDark">#ac1900</color>
+    <color name="colorAccent">#ac1900</color>
+    <color name="my_background">#FF8F10</color>
+    <color name="my_second_primary">#E78312</color>
+    <color name="TextColor">#fafafa</color>
+    <color name="my_first_primary">#e65100</color>
+    <color name="my_previous_background">#ef6c00</color>
+
+</resources>
